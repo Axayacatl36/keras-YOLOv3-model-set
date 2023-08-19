@@ -4,7 +4,7 @@ scipy
 scikit-learn==0.20.3
 opencv-python==4.2.0.32
 opencv-contrib-python==4.2.0.32
-tensorflow
+tensorflow-gpu
 keras_applications
 tensorflow-model-optimization==0.5.0
 tensorflow-addons
@@ -22,5 +22,5 @@ tfcoreml
 sympy
 imgaug
 imagecorruptions
-bokeh==2.4.0
+bokeh==2.3.3
 tidecv
